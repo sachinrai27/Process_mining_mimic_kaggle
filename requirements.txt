@@ -1,0 +1,13 @@
+etup:
+Libraries to install:
+1. pm4py
+2. pandas
+3. matplotlib
+4. seaborn
+
+Above can be installed using:
+
+pip3 install pm4py
+pip3 install pandas
+pip3 install matplotlib
+pip3 install seaborn
